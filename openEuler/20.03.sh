@@ -1,0 +1,6 @@
+NAME="openEuler"
+VERSION="20.03 (LTS)"
+ID="openEuler"
+VERSION_ID="20.03"
+PRETTY_NAME="openEuler 20.03 (LTS)"
+ANSI_COLOR="0;31"

@@ -1,0 +1,15 @@
+NAME="NeoKylin Linux Advanced Server"
+VERSION="V7Update4 (Titanium)"
+ID="neokylin"
+ID_LIKE="fedora"
+VERSION_ID="V7Update4"
+PRETTY_NAME="NeoKylin Linux Advanced Server V7Update4 (Titanium)"
+ANSI_COLOR="0;31"
+CPE_NAME="cpe:/o:neokylin:enterprise_linux:V7Update4:GA:server"
+HOME_URL="https://www.cs2c.com.cn/"
+BUG_REPORT_URL="https://bugzilla.cs2c.com.cn/"
+ 
+NEOKYLIN_BUGZILLA_PRODUCT="NeoKylin Linux Advanced Server 7"
+NEOKYLIN_BUGZILLA_PRODUCT_VERSION=V7Update4
+NEOKYLIN_SUPPORT_PRODUCT="NeoKylin Linux Advanced Server"
+NEOKYLIN_SUPPORT_PRODUCT_VERSION="V7Update4"
