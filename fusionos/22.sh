@@ -1,0 +1,6 @@
+NAME="FusionOS"
+VERSION="22"
+ID="fusionos"
+VERSION_ID="22.0.2"
+PRETTY_NAME="FusionOS 22"
+ANSI_COLOR="0;31"
