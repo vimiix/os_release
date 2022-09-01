@@ -1,0 +1,10 @@
+NAME="KylinSec OS Linux"
+VERSION="3 (Qomolangma)"
+ID="KylinSecOS"
+VERSION_ID="3.4-5"
+PLATFORM_ID="platform:KY3.4-5"
+PRETTY_NAME="KylinSec OS Linux 3 (Qomolangma)"
+ANSI_COLOR="1;32"
+
+HOME_URL="http://www.kylinsec.com.cn"
+BUG_REPORT_URL="https://support.kylinos.com.cn"
